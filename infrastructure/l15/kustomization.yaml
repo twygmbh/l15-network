@@ -6,5 +6,6 @@ resources:
   - ../base/kong
   - ../base/sealed-secrets
   - ../base/cert-manager
+  - ../base/metacontroller
 patchesStrategicMerge:
   - kong-values.yaml
