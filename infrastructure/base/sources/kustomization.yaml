@@ -4,3 +4,4 @@ namespace: flux-system
 resources:
   - 01-kong.yaml
   - 02-sealed-secrets.yaml
+  - 03-jetstack.yaml
