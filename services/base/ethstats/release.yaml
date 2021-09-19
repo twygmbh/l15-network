@@ -16,3 +16,6 @@ spec:
   install:
     remediation:
       retries: 3
+  values:
+    DOMAIN: l15.twy.gmbh
+    TLS_SECRET_SUFFIX: l15-twy-gmbh
