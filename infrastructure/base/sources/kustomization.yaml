@@ -5,3 +5,5 @@ resources:
   - 01-kong.yaml
   - 02-sealed-secrets.yaml
   - 03-jetstack.yaml
+  - 04-lukso-charts.yaml
+  - 04-lukso-charts-credentials.yaml
