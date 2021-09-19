@@ -10,7 +10,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/twygmbh/l15-network
+  url: ssh://git@github.com/twygmbh/l15-network.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta1
 kind: Kustomization
