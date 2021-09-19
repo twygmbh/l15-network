@@ -9,4 +9,4 @@ spec:
       version: ">=1.0.0"
   values:
     proxy:
-      loadBalancerIP: 34.107.227.83
+      loadBalancerIP: 34.140.191.63
