@@ -4,5 +4,6 @@ resources:
   - ../base/sources
   - ../base/namespaces
   - ../base/kong
+  - ../base/sealed-secrets
 patchesStrategicMerge:
   - kong-values.yaml
