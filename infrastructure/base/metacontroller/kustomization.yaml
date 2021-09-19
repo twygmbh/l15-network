@@ -4,3 +4,4 @@ namespace: metacontroller
 resources:
   - namespace.yaml
   - release.yaml
+  - service-per-pod
