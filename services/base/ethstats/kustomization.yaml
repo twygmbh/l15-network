@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
   - ethstats.yaml
   - ethstats-srv.yaml
-  - ethstats-ingress.yaml
