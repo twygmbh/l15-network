@@ -1,0 +1,7 @@
+ingressController:
+  installCRDs: false
+podAnnotations:
+  prometheus.io/port: "9542"
+  prometheus.io/scrape: "true"
+serviceMonitor:
+  enabled: true
