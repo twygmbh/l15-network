@@ -1,0 +1,9 @@
+# Other
+.vscode/
+*.log
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
